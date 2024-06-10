@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ayannsinghhh
 - 👀 I’m interested in ml,ai.
-- 🌱 I’m currently learning c++
+- 🌱 I'm a student working in the field of IoT related electronics.
+- 🧑‍💻 Can always look for microcontrollers' codes(arduino,esps32,etc.).
+- 🕐 Actively working on AWS. 
 
 
 <!---
